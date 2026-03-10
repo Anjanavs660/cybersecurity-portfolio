@@ -1,5 +1,3 @@
-# cybersecurity-portfolio
-
 Cybersecurity Journey
 
 I am a Computer Science Engineering graduate and cybersecurity enthusiast with hands-on experience in SOC operations, vulnerability assessment, penetration testing, and security monitoring. My interest in cybersecurity began with learning networking fundamentals, Linux systems, and web technologies, which gradually led me toward exploring both offensive and defensive security practices.
