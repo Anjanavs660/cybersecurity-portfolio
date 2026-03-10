@@ -15,31 +15,51 @@ As part of the internship, I completed several assignments and worked on documen
 
 
 Projects Worked On
+
 Windows Service Security
+
 Worked on analyzing Windows service configurations and identfying potential security risks related to system services.
 
 Tasks included:
+
 Understanding Windows service architecture
+
 Identifying insecure configurations
+
 Analyzing service permissions
+
 Studying system-level attack surfaces
+
 SentinelShield Security Monitoring
 
 Participated in security monitoring activities using SentinelShield.
+
 Responsibilities included:
+
 Threat analysis
+
 Vulnerability assessment
+
 Basic incident response practices
+
 Identifying system vulnerabilities
+
 Implementing security best practices
 
 Skills Gained
+
 Through this internship I developed practical experience in:
+
 Network Security Fundamentals
+
 Threat Analysis
+
 Vulnerability Assessment
+
 Security Risk Identification
+
 Incident Response Basics
+
 Security Monitoring
 
 Outcome
